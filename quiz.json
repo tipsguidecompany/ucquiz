@@ -1,1 +1,91 @@
-
+[{
+    "id": 2,
+    "question": "Which company is the developer and publisher of the game?",
+    "image": "https://i.ibb.co/5vMPbFY/Icon.png",
+    "option1": "Bluehole, Inc",
+    "option2": "Epic Games",
+    "option3": "Riot Games",
+    "option4": "PUBG Games",
+    "correct": 1
+},{
+    "id": 1,
+    "question": "On which platform PUBG WASN’T released?",
+    "image": "https://i.ibb.co/5vMPbFY/Icon.png",
+    "option1": "XBOX One",
+    "option2": "PS4",
+    "option3": "Android",
+    "option4": "XBOX 360",
+    "correct": 4
+},{
+    "id": 3,
+    "question": "What is the name of this map?",
+    "image": "https://quizondo.com/wp-content/uploads/2019/03/6-5-600x300.jpg",
+    "option1": "Miramar",
+    "option2": "Erangel",
+    "option3": "Sanhok",
+    "option4": "Vikendi",
+    "correct": 2
+},{
+    "id": 5,
+    "question": "How much extra capacity does Backpack (Level 3) give?",
+    "image": "https://i.ibb.co/5vMPbFY/Icon.png",
+    "option1": "+250",
+    "option2": "+200",
+    "option3": "+300",
+    "option4": "+150",
+    "correct": 1
+},{
+    "id": 6,
+    "question": "What is the name of this weapon?",
+    "image": "https://quizondo.com/wp-content/uploads/2019/03/5-4.jpg",
+    "option1": "M762",
+    "option2": "QBZ95",
+    "option3": "M416",
+    "option4": "M16A4",
+    "correct": 1
+},{
+    "id": 8,
+    "question": "When was PUBG officially released?",
+    "image": "https://i.ibb.co/5vMPbFY/Icon.png",
+    "option1": "20 December 2016",
+    "option2": "21 December 2017",
+    "option3": "23 march 2017",
+    "option4": "21 December 2016",
+    "correct": 3
+},{
+    "id": 9,
+    "question": "How much damage reduction does Motorcycle Helmet (Green) (Level 1) give?",
+    "image": "https://i.ibb.co/5vMPbFY/Icon.png",
+    "option1": "35%",
+    "option2": "30%",
+    "option3": "25%",
+    "option4": "40%",
+    "correct": 2
+},{
+    "id": 10,
+    "question": "How many crates can you open per week?",
+    "image": "https://i.ibb.co/5vMPbFY/Icon.png",
+    "option1": "6",
+    "option2": "7",
+    "option3": "5",
+    "option4": "10",
+    "correct": 1
+},{
+    "id": 11,
+    "question": "How many players can be in this vehicle at the same time?",
+    "image": "https://quizondo.com/wp-content/uploads/2019/03/6-6-583x300.jpg",
+    "option1": "6",
+    "option2": "5",
+    "option3": "4",
+    "option4": "2",
+    "correct": 3
+},{
+    "id": 12,
+    "question": "What is the name of in-game currency?",
+    "image": "https://i.ibb.co/5vMPbFY/Icon.png",
+    "option1": "PUBG Points",
+    "option2": "Battle Points",
+    "option3": "PUBG Coins",
+    "option4": "Battle Coins",
+    "correct": 2
+}]
